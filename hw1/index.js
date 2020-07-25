@@ -15,7 +15,7 @@ const allGoods = bikePrice + carPrice + truckPrice
 const summPrice = allGoods;
 document.writeln(`${summPrice}<hr>`);
 
-//¬≥дкиньте коп≥йки у вс≥х товар≥в, пот≥м Ц склад≥ть ц≥лу частину вартост≥ кожного товару м≥ж собою.
+//¬≥дкиньте коп≥йки у вс≥х товар≥в :), пот≥м Ц склад≥ть ц≥лу частину вартост≥ кожного товару м≥ж собою.
 //ќкругленн€ використовувати в ћ≈Ќ№Ў” сторону.
 
 const summInt = Math.floor(bikePrice) + Math.floor(carPrice) + Math.floor(truckPrice);
