@@ -2,7 +2,7 @@ const bikePrice = 15.678;
 const carPrice = 90.2345;
 const truckPrice = 123.965;
 
-//
+/
 const maxPrice = Math.max(bikePrice, carPrice, truckPrice);
 document.writeln(`${maxPrice}<hr>`);
 
