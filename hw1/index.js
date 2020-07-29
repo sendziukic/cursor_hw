@@ -57,12 +57,12 @@ document.writeln(`price: ${trainPrice}$, discount: ${discount * 100} %, new pric
 
 
 document.writeln(`<h3>Advanced Task</h3> 
-Max price: ${summPrice};<br>
+Max price: ${maxPrice};<br>
 Min price: ${minPrice};<br>
 All goods price: ${summPrice};<br>
 Sum of rounded integers: ${summInt};<br>
 Sum, rounded to low. 100: ${roundedSumm};<br>
-Sum of rounded integers is ${message}
+Sum of rounded integers is ${message};<br>
 Change for 500: ${changeFrom500};<br>
 Average price: ${average};<br>`)
 
